@@ -13,3 +13,5 @@ sinabox
 
 8. 是否能整合adbox
 9. grunt task，严格模式编码，jshint检查等等。
+10. 最好为模块加载。
+11. 暂时不考虑支持ie9以下浏览器
